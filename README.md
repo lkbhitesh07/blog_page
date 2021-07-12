@@ -7,3 +7,5 @@ In this app I've made a blog application, in which you can register and after th
 To try it out just clone into your personal laptop and by starting local server try it out.
 
 Feel free to make changes. I'm also working on it to improve.
+
+Live website - https://tomarji-blog-wale.herokuapp.com/
