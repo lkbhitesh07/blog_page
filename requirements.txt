@@ -2,7 +2,7 @@ asgiref==3.3.1
 certifi==2020.11.8
 chardet==3.0.4
 dj-database-url==0.5.0
-Django==3.1.12
+Django==3.1.13
 -e git://github.com/maraujop/django-crispy-forms.git@7ce02ff6a4a720fd0969341d4787528dba80a589#egg=django_crispy_forms
 django-crum==0.7.9
 django-heroku==0.3.1
