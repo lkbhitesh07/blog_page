@@ -1,4 +1,4 @@
-# Insta-clone
+# Blog-page
 This is an blog application I have made in Django. Some functionalities of this app includes:-
 1. Authenticaton and Authorization.
 2. Forgot password reset option.
